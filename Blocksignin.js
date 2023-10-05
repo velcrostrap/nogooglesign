@@ -1,4 +1,4 @@
-console.log("Hello, World!");var styles = {
+var styles = {
 
 ///* Google: Sign in with Google */ div#credential_picker_container > iframe[src="https://accounts.google.com/"], iframe#credential_picker_iframe[src="https://accounts.google.com/"]
     googlesigninwithgoogledivCredentialPickerContaineriframeSrcHttpsAccountsGoogleComElement: {
